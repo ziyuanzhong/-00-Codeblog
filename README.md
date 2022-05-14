@@ -7,6 +7,17 @@
 2.完成Javascript BOM DOM知识点  
 3.获得Javascript证书 
 
+### 参考攻略：
+week 1: algo/ds  
+week 2: ajax, dom, node/express  
+week 3: React/Redux  
+week 4: Jest, Enzyme, PostgreSQL, MongoDB  
+week 5: Docker, AWS, CI/CD, solo project  
+week 6: scratch project. 第一个group project，iteration project. 第二个group project，要从其他人的scratch project。
+week 7 - 11: 时长5个星期的group project，+3天的reinforcement project  
+参考链接：  
+https://www.1point3acres.com/bbs/thread-894840-1-1.html  
+https://www.1point3acres.com/bbs/thread-872272-1-1.html
 
 
 ### 放弃记录
