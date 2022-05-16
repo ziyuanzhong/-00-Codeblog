@@ -3,9 +3,19 @@
 无数次开始，无数次放弃，希望这次通过公开记录的力量，可以督促自己完成前端课程小目标。 
 
 ### 第一阶段目标（Week 1：5月14日-5月22日)
-1.完成C++课程  
-2.完成Javascript BOM DOM知识点  
-3.获得Javascript证书 
+1.完成C++课程  （需要25小时）
+2.完成Javascript BOM DOM知识点  （Part1 - Part7:每个部分需要6小时)；
+3.获得Javascript证书（freecodecamp，大概8个小时）
+
+### 第二阶段目标（Week 2-4：5月23日-6月14日)
+week 2: ajax, node/express, advanced html css js review; algo/ds (chapter 1-4 )  
+week 3: React，vue;algo/ds (chapter 2-8 )   
+week 4: PostgreSQL, MongoDB，algo/ds (chapter 9-12 )  
+
+### 第s三阶段目标（Month 2 - Month 4: 6月14日-9月14日)
+week 5: 4 project total 12h * 4；  
+week 6:     
+week 7: ，  
 
 ### 参考攻略：
 week 1: algo/ds  
