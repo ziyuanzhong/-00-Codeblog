@@ -1,21 +1,15 @@
 # 转码记录
-### 引言
-无数次开始，无数次放弃，希望这次通过公开记录的力量，可以督促自己完成前端课程小目标。 
+### 6月15日-6月24日
+1. DOM + BOM 完成 3/7
+2. Javascript证书，还需要8个小时 
+3. Node 2/7
+4. 希望驾照通过
+5. space项目，还需要5个小时
+6. Ajax  1/7
 
-### 第一阶段目标（Week 1：5月14日-5月22日)
-1.完成C++课程  （需要25小时）
-2.完成Javascript BOM DOM知识点  （Part1 - Part7:每个部分需要6小时)；
-3.获得Javascript证书（freecodecamp，大概8个小时）
-
-### 第二阶段目标（Week 2-4：5月23日-6月14日)
-week 2: ajax, node/express, advanced html css js review; algo/ds (chapter 1-4 )  
-week 3: React，vue;algo/ds (chapter 2-8 )   
-week 4: PostgreSQL, MongoDB，algo/ds (chapter 9-12 )  
-
-### 第s三阶段目标（Month 2 - Month 4: 6月14日-9月14日)
-week 5: 4 project total 12h * 4；  
-week 6:     
-week 7: ，  
+例行工作：
+* 每天锻炼一个小时
+* 每天英语口语一个小时
 
 ### 参考攻略：
 week 1: algo/ds  
