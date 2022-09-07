@@ -1,15 +1,4 @@
-# 转码记录
-### 6月15日-6月24日
-1. DOM + BOM 完成 3/7
-2. Javascript证书，还需要8个小时 
-3. Node 2/7
-4. 希望驾照通过
-5. space项目，还需要5个小时
-6. Ajax  1/7
 
-例行工作：
-* 每天锻炼一个小时
-* 每天英语口语一个小时
 
 ### 参考攻略：
 week 1: algo/ds  
@@ -22,6 +11,9 @@ week 7 - 11: 时长5个星期的group project，+3天的reinforcement project
 参考链接：  
 https://www.1point3acres.com/bbs/thread-894840-1-1.html  
 https://www.1point3acres.com/bbs/thread-872272-1-1.html
+
+
+
 
 
 ### 放弃记录
